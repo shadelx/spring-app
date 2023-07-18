@@ -5,8 +5,6 @@ This is a simple movie app created with reactjs and spring-boot, using mongodb a
 ## installation
 For this project we use npm package manager on the frontend and for the back we use maven
 ```
-
-
 server
 mvnw spring-boot:run
 
